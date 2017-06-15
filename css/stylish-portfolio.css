@@ -95,9 +95,6 @@ header {
         -ms-animation: fadein 4s; /* Internet Explorer */
          -o-animation: fadein 4s; /* Opera < 12.1 */
             animation: fadein 4s;
-    -webkit-animation-delay: 6s;
-    -moz-animation-delay: 6s;
-     animation-delay: 6s;
 }
 
 .header {
