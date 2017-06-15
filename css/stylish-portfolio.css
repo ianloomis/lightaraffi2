@@ -135,11 +135,8 @@ header {
 }
 
 .rafflebox {
-    background: rgba(255, 255, 255, 0.05);
     height: 300px;
     margin: 00px 230px 00px 230px;
-    outline-style: solid;
-    outline-color: rgba(255, 255, 255, 0.02);
     
 }
 
